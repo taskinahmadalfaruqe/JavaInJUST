@@ -32,6 +32,7 @@ public class Assignemnt03P3 {
                         + " - " + highest);
 
                 scores[studentIndex][j] = -1;
+                
             }
         }
     }
